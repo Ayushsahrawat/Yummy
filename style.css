@@ -1,0 +1,49 @@
+
+.card-1{
+    background-color: red;
+    color: white;
+}
+.button{
+    background-color: transparent;
+    border: solid white;
+    border-radius: 12px;
+}
+.color-grey{
+    color: gainsboro;
+}
+.counts{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/stats-bg.jpg);
+    /* background-image:url(img/stats-bg.jpg); */
+    background-position: fixed;
+}
+.event-1{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/events-1.jpg);
+    background-size: cover;
+    padding-top: 400px;
+    color: white;
+    /* width: 100%; */
+}
+.event-2{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/events-2.jpg);
+    background-size:cover;
+    padding-top: 400px;
+    color: white;
+    /* width: 100%; */
+}
+.event-3{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(img/events-3.jpg);
+    background-size:cover;
+    padding-top: 400px;
+    color: white;
+    /* width: 100%;     */
+}
+.card-button{
+    background-color: #eca1a6;
+    border-radius: 30%;
+    border: transparent;
+    color: white;
+    ;
+}
+.nav-tabs{
+    border-bottom: 0;
+}
